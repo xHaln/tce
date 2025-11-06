@@ -1,0 +1,1 @@
+hello my name is xhaln this is a projeckt of min called tce, telecommunication encrypted, I reccomanded you to load the file server on an Ubuntu server and open the port whit ngrok using the command "sudo ngrok tcp 5000" in orther to open port 5000
